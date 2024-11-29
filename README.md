@@ -29,10 +29,10 @@ Application:
 --> Virtual Reality
 
 
-#OUTPUT:
+OUTPUT:
 
-C:\Users\HP\OneDrive\Desktop\p1.png
+![p1.png]C:\Users\HP\OneDrive\Desktop\p1.png
 
 
-C:\Users\HP\OneDrive\Desktop\p2.png
+![p2.png]C:\Users\HP\OneDrive\Desktop\p2.png
 
