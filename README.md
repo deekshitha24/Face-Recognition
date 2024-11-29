@@ -34,5 +34,5 @@ OUTPUT:
 ![p1.png](https://github.com/deekshitha24/Face-Recognition/blob/main/p1.png)
 
 
-![p2.png]C:\Users\HP\OneDrive\Desktop\p2.png
+![p2.png](https://github.com/deekshitha24/Face-Recognition/blob/main/p2.png)
 
