@@ -31,7 +31,7 @@ Application:
 
 OUTPUT:
 
-![p1.png]C:\Users\HP\OneDrive\Desktop\p1.png
+![p1.png](https://github.com/deekshitha24/Face-Recognition/blob/main/p1.png)
 
 
 ![p2.png]C:\Users\HP\OneDrive\Desktop\p2.png
